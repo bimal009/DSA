@@ -1,6 +1,5 @@
-
 // Problem Statement:
-// Write a program that takes the size of an array and its elements as input from the user. Then, take a value and a position from the user and insert the value into the array at the specified position. Finally, print the updated array.
+// Write a program that takes the size of an unsorted array and its elements as input from the user. Then, take a value and a position from the user and insert the value into the array at the specified position. Finally, print the updated array.
 // Input:
 // An integer n representing the number of elements in the array.
 // n integers representing the elements of the array.
@@ -18,7 +17,7 @@ public class Arrays {
         System.out.println("Enter the size of array:");
         int size = sc.nextInt();
 
-        int[] arr = new int[size + 1]; 
+        int[] arr = new int[size + 1];
 
         System.out.println("Enter " + size + " elements:");
         for (int i = 0; i < size; i++) {

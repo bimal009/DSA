@@ -1,0 +1,40 @@
+1. Delete an Element from an Array
+Problem:
+Given an array and a position, delete the element at the given position and print the updated array.
+
+2. Insert an Element at the Beginning of an Array
+Problem:
+Take an array as input, insert a given value at the beginning, and print the updated array.
+
+3. Insert an Element at the End of an Array
+Problem:
+Given an array and a value, insert the value at the end of the array and print the result.
+
+4. Find and Insert After a Given Element
+Problem:
+Find a given element in the array and insert a new value right after it. If the element is not found, print "Element not found."
+
+5. Reverse the Array After Insertion
+Problem:
+Insert a given value at a specified position in an array, then reverse the updated array and print it.
+
+6. Insert in a Sorted Array
+Problem:
+Given a sorted array, insert a value such that the array remains sorted. Print the updated array.
+
+7. Replace Element at a Given Position
+Problem:
+Replace the element at a specified position with a new value and print the updated array.
+
+8. Rotate Array Elements to the Right by One
+Problem:
+Rotate all elements of the array to the right by one position and print the updated array.
+
+9. Merge Two Arrays and Sort
+Problem:
+Take two arrays as input, merge them into one, sort the resulting array, and print it.
+
+10. Remove Duplicate Elements
+Problem:
+Given an array, remove duplicates and print the unique elements.
+
